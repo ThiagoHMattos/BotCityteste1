@@ -3,4 +3,4 @@
 
 
 I've used two IDEs in this repository,
-that was PyCharm and BotStudio.
+which were PyCharm and BotStudio.
