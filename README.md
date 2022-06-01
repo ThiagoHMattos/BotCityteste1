@@ -1,2 +1,2 @@
 # BotCityteste1
-using botcity template to create a simple bot 
+# Using botcity FrameWork template to create a simple bot that sends 2 messages on the discord app
