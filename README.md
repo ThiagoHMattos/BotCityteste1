@@ -1,2 +1,6 @@
 # BotCityteste1
-# Using botcity FrameWork template to create a simple bot that sends 2 messages on the discord app
+# Using BotCity FrameWork template to create a simple bot that sends 2 messages on the discord app
+
+
+I've used two IDEs in this repository,
+that was PyCharm and BotStudio.
